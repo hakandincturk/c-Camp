@@ -15,7 +15,7 @@ namespace Dic
 
             for (int i = 0; i < days.Count; i++)
             {
-                Console.WriteLine("[" + days.Keys[i] + ": " + days.Values[i] + "]");
+                Console.WriteLine("[" + days.Keys[i] + ": " + days.Values[i] + "] ");
             }
         }
     }
